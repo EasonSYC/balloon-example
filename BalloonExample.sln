@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalloonExample", "BalloonExample\BalloonExample.csproj", "{274BDB29-AA50-4D8A-B156-2A8FA4BD06F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalloonExample.Classes", "BalloonExample.Classes\BalloonExample.Classes.csproj", "{90ECA43E-BF32-4342-B75B-30F963BE9374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{274BDB29-AA50-4D8A-B156-2A8FA4BD06F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274BDB29-AA50-4D8A-B156-2A8FA4BD06F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274BDB29-AA50-4D8A-B156-2A8FA4BD06F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274BDB29-AA50-4D8A-B156-2A8FA4BD06F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90ECA43E-BF32-4342-B75B-30F963BE9374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90ECA43E-BF32-4342-B75B-30F963BE9374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90ECA43E-BF32-4342-B75B-30F963BE9374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90ECA43E-BF32-4342-B75B-30F963BE9374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
